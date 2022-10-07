@@ -20,3 +20,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats)
 
 [Github generated Resume](https://resume.github.io/?lertsoft)
+[Github generated Resume](https://resume.github.io/?lertsoft)
