@@ -19,5 +19,5 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats)
 
