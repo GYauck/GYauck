@@ -19,7 +19,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=GYauck&theme=dark&hide_border=false"/>
 </p>
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GYauck's stats" src="https://github-readme-stats.vercel.app/api?username=GYauck&show_icons=true&theme=radical"/>
 </p>
 
 
