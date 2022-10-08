@@ -13,6 +13,9 @@
 
 
 ## 🔥 Stats
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+[![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats) |  ![](https://...Ocean.png)
 <div>
   <p align="left">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=GYauck&theme=dark&card_width=100&hide_border=false"/>
