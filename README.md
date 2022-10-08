@@ -15,7 +15,7 @@
 ## 🔥 Stats
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-[![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)] |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck)]
+(https://streak-stats.demolab.com?user=GYauck&theme=dark) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck)]
 
 
   
