@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5FF71AFF&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-<img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="3000" height="600">
+
 
 
 
@@ -18,11 +18,4 @@ Streak Stats               |  GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck&include_all_commits=true&title_color=5FF71AFF&theme=radical)](https://github.com/GYauck/github-readme-stats)
 
   
-
-
-  <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=GYauck&theme=dark&hide_border=false"/>
-</p>
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GYauck's stats" src="https://github-readme-stats.vercel.app/api?username=GYauck&show_icons=true&include_all_commits=true&card_width=150&theme=radical&title_color=5FF71AFF"/>
-</p>
+<img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="3000" height="600">
