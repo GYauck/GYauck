@@ -7,14 +7,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5FF71AFF&vCenter=true&size=22&pause=1000"></a>
 </p>
-## <b>Connect with me@ :-</b>
+<b>Connect with me@ : </b>
 <p>
-<!-- Github -->
+<!-- Gmail -->
 <a 
     target="_blank" 
-    href="https://github.com/GYauck">
+    href="mailto:yauckgaston@gmail.com">
     <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
 <!-- LinkedIn -->
