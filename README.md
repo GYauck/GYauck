@@ -21,7 +21,7 @@ Streak Stats               |  GitHub Stats
 <img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="3000" height="300">
 
 
-## 📕 Top projects I've contributed to
+## 📕 Projects I've contributed to
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=Tonic3-Prode&theme=dark&title_color=5FF71AFF)](https://github.com/NazarenoRios/Tonic3-Prode)
