@@ -25,6 +25,9 @@ Streak Stats               |  GitHub Stats
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=Tonic3-Prode&theme=dark&title_color=5FF71AFF)](https://github.com/NazarenoRios/Tonic3-Prode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=OlympicSports&theme=dark&title_color=5FF71AFF)](https://github.com/NazarenoRios/OlympicSports)
+
+
 <p align="left">
   <a href="https://github.com/NazarenoRios/github-readme-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
   <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shields"></a>
