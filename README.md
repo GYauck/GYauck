@@ -18,7 +18,7 @@ Streak Stats               |  GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck&include_all_commits=true&title_color=5FF71AFF&theme=radical)](https://github.com/GYauck/github-readme-stats)
 
   
-<img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="3000" height="600">
+<img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="3000" height="300">
 
 
 ## 📕 Top projects I've contributed to
