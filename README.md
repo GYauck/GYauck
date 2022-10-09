@@ -93,7 +93,7 @@
 ## 🔥 Stats
 Streak Stats               |  GitHub Stats
 :-------------------------:|:-------------------------:
-[![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=moltack)](https://git.io/streak-stats) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck&include_all_commits=true&title_color=5FF71AFF&theme=moltack)](https://github.com/GYauck/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck&include_all_commits=true&title_color=5FF71AFF&theme=dark)](https://github.com/GYauck/github-readme-stats)
 
   
 
@@ -101,8 +101,8 @@ Streak Stats               |  GitHub Stats
 ## 📕 Projects I've contributed to
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=Tonic3-Prode&theme=moltack&title_color=5FF71AFF)](https://github.com/NazarenoRios/Tonic3-Prode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=OlympicSports&theme=moltack&title_color=5FF71AFF)](https://github.com/NazarenoRios/OlympicSports)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=Tonic3-Prode&theme=dark&title_color=5FF71AFF)](https://github.com/NazarenoRios/Tonic3-Prode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NazarenoRios&repo=OlympicSports&theme=dark&title_color=5FF71AFF)](https://github.com/NazarenoRios/OlympicSports)
 
 
 <img src="https://komarev.com/ghpvc/?username=GYauck&color=45707a&style=flat-square" alt="GitHub page views">
