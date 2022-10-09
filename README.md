@@ -25,7 +25,17 @@
         src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
     </img>
 </a>
+<!-- My Resume -->
+<a 
+    target="_blank"
+    href="https://drive.google.com/file/d/1zYTabZg5nCWxZBA0dCfs9e2PjUUKM_ax/view?usp=sharing">
+    <img
+        src="https://img.shields.io/badge/-RESUME-20232a?style=for-the-badge&logoColor=white">
+    </img>
+</a>
 </p>
+
+
 
 
 
