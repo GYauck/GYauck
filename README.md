@@ -106,7 +106,7 @@ Streak Stats               |  GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GYauck&theme=dark)](https://git.io/streak-stats) |  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYauck&include_all_commits=true&title_color=5FF71AFF&theme=dark)](https://github.com/GYauck/github-readme-stats)
 
   
-## 📘 My top open source projects
+## 📘 My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GYauck&repo=portfolio&theme=dark&title_color=5FF71AFF)](https://github.com/GYauck/portfolio)
 
 ## 📕 Projects I've contributed to
