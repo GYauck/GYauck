@@ -107,7 +107,7 @@ Streak Stats               |  GitHub Stats
 
   
 ## 📘 My top open source projects
-<a href="https://github.com/GYauck/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GYauck&repo=portfolio&theme=dark&title_color=5FF71AFF)](https://github.com/GYauck/portfolio)
 
 ## 📕 Projects I've contributed to
 
