@@ -7,9 +7,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5FF71AFF&vCenter=true&size=22&pause=1000"></a>
 </p>
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-&nbsp;<b>Connect with me: </b>&nbsp;
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+
+<b>Connect with me: </b>
+
 <p>
 <!-- Gmail -->
 <a 
