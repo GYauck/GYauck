@@ -32,7 +32,7 @@
 <!-- My Resume -->
 <a 
     target="_blank"
-    href="https://drive.google.com/file/d/1zYTabZg5nCWxZBA0dCfs9e2PjUUKM_ax/view?usp=sharing">
+    href="https://drive.google.com/file/d/1tdEHhg1sheX2pe8tKrF8h91HvQAgYF9P/view?usp=sharing">
     <img
         src="https://img.shields.io/badge/-RESUME-20232a?style=for-the-badge&logoColor=white">
     </img>
